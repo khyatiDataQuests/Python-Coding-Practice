@@ -3,9 +3,10 @@ A collection of intermediate-level Python programs focused on problem-solving, l
 
 These notebooks are designed for practice, learning, and interview preparation.
 
-🔹 Table of Contents
-String Programs
-Pattern Printing
-Functions
-Recursion
-List & Logic Programs
+🔹 Table of Contents: 
+
+1.String Programs
+2.Pattern Printing
+3.Functions
+4.Recursion
+5.List & Logic Programs
